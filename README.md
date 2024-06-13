@@ -54,7 +54,8 @@ This paper demonstrates a method to streamline numerous energy system scenarios 
  - Visualization: Tools for visualizing decision trees, scenario clusters, and regret distributions to interpret and communicate results effectively.
 
 # Getting Started
-To get started with the code, please follow the instructions provided in the Installation section. Each directory contains detailed information about the scripts and their usage. Refer to the Examples section for practical demonstrations of replicating the methods from the papers.
+In those 4 papers the methods are so similar, the core is the K-means for clustering and decision tree for classification, such a way is kind of work, because in total in one of the paper, 
+the total number of the solution or strategies are 441 and the varibales are only 5 in maximum, so the depth and width is not extreme huge, but for the project we are ongoing, the tree will be too giant to analyze.
 
 # Goals
 The goal of this project is to provide a comprehensive and replicable implementation of state-of-the-art methods in decision-making under uncertainty for energy systems. By offering these tools, we aim to support researchers and policymakers in making informed decisions to facilitate the energy transition.
