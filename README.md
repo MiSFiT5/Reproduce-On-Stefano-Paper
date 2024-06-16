@@ -1,5 +1,7 @@
 # Reproduce-On-Stefano-Paper
 reproduce the idea from the Stefano Moret in Escape34-PSE24 and his paper
+Author: Heyuan LIU
+Contact: heyuan.liu@epfl.ch
 
 ## Basic Idea
 For the three papers in ESCAPE and 1 paper from Google Scholar,
